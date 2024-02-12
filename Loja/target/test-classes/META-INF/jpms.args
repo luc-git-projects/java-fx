@@ -1,0 +1,4 @@
+--patch-module
+br.com.luciano.loja=_
+--add-reads
+br.com.luciano.loja=ALL-UNNAMED
